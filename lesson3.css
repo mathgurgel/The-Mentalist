@@ -1,24 +1,28 @@
-body {
-    font-family: "Roboto Mono", monospace;
-    min-height: 600px;
-
+html {
     background:
         linear-gradient(
           rgba(0, 0, 0, 0.8), 
           rgba(0, 0, 0, 0.7)
         ),
-        url(https://i.pinimg.com/originals/e2/82/4c/e2824cf1b56227eb9a4787f9cec32979.jpg);
-    
+        url(https://i.pinimg.com/originals/e2/82/4c/e2824cf1b56227eb9a4787f9cec32979.jpg)
+        no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: center bottom;
-    background-repeat: no-repeat;
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 600px;
 }
 
 
 .container {
     text-align: center;
     padding: 20px;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .page-title {
