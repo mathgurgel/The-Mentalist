@@ -5,7 +5,7 @@
 </p>
 
 ## You'll learn playing this game!
-In order to accomplish the objective, you'll intuitively learn an important concept in **Computer Science** called `binary search`.
+In order to accomplish the objective, you'll intuitively learn an important concept in **Computer Science** called [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm).
 
 ## Screenshots
 ![mentalisto-cover](https://user-images.githubusercontent.com/88843455/175974859-273ccc4d-3981-4ada-a27d-8f249613b816.png)
